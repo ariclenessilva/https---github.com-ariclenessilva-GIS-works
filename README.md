@@ -1,0 +1,3 @@
+# Maximize coverage service area and minimize travel distance
+
+Geographic Information Science or simply GIS is a science that studies spatial/geographic data to solve social, financial, criminal, and other problems using GIsystems, which are computational-based tools/software that create, manage, analyze, and visualize spatial/geographic/GIS data. GIS can act in so many different fields, and one of them is the one that this study is focused on studying. In police departments, GIS can be used to understand how crime events are spreading in an area or even to understand how the criminal events are being related to the locations, but this study mainly focuses on doing spatial distribution of the Chicago police patrols in the whole city.
